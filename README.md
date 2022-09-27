@@ -15,8 +15,7 @@ Acceptance criteria for the webpage:
 
 - Usage:
 - You can find this project on github at the following repository: https://github.com/MXCAZ/FirstweekchallengeHoriseon
-- Access the deployed application on github pages: https://mxcaz.github.io/FirstweekchallengeHoriseo
-
+- Access the deployed application on github pages: https://mxcaz.github.io/FirstweekchallengeHoriseon/
 
 ## References
 
